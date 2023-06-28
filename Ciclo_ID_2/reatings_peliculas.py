@@ -18,5 +18,4 @@ def get_movie_ratings(movie_title):
     else:
         print("Error retrieving movie data.")
 
-#:
 get_movie_ratings("The Dark Knight")
